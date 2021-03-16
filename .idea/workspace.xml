@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db735a2-37e1-42d2-8740-fcb9a2c09968" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca5/VehicleDAOBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca5/VehicleDAOBase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\FARIS\Desktop\rs-zadaca-5-fcolakovic2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cY77OeuGtQawWDxdhwLCg177xv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FARIS\Desktop\rs-zadaca-5-fcolakovic2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VehicleDAOBaseTest.deleteOwner">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-13.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleDAOBaseTest.addOwner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.VehicleDAOBaseTest" />
+      <option name="METHOD_NAME" value="addOwner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleDAOBaseTest.addVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.VehicleDAOBaseTest" />
+      <option name="METHOD_NAME" value="addVehicle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleDAOBaseTest.changeOwner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.VehicleDAOBaseTest" />
+      <option name="METHOD_NAME" value="changeOwner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleDAOBaseTest.deleteOwner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.VehicleDAOBaseTest" />
+      <option name="METHOD_NAME" value="deleteOwner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleDAOBaseTest.deleteVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.VehicleDAOBaseTest" />
+      <option name="METHOD_NAME" value="deleteVehicle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VehicleDAOBaseTest.deleteOwner" />
+        <item itemvalue="JUnit.VehicleDAOBaseTest.deleteVehicle" />
+        <item itemvalue="JUnit.VehicleDAOBaseTest.addVehicle" />
+        <item itemvalue="JUnit.VehicleDAOBaseTest.changeOwner" />
+        <item itemvalue="JUnit.VehicleDAOBaseTest.addOwner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db735a2-37e1-42d2-8740-fcb9a2c09968" name="Default Changelist" comment="" />
+      <created>1590693504993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590693504993</updated>
+      <workItem from="1591704543263" duration="15377000" />
+      <workItem from="1591868592124" duration="2265000" />
+      <workItem from="1592042070990" duration="2616000" />
+      <workItem from="1592048660504" duration="270000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial import">
+      <created>1590693719082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590693719082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Popravljam datum da bude u budućnosti">
+      <created>1590695011261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590695011261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Promijenjena vehicles.db baza ( stavljena profesorova )">
+      <created>1591704757039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591704757039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Napravljena klasa place.">
+      <created>1591705533834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591705533834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Napravljena klasa manufacturer.">
+      <created>1591705600438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591705600438</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dodani vehicle i owner.">
+      <created>1591706172255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591706172255</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dodan JavaFX , modules te sve potrebne metode u interfejsu.">
+      <created>1591708010196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591708010196</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ALT+Enter urađeni, da se implementiraju metode navedene u interfejsu.">
+      <created>1591708186202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591708186202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dodana konekcija i konektovao se na bazu iz konstruktora bez parametara.">
+      <created>1591713704295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591713704295</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Prebacena baza u glavni dio projekta.">
+      <created>1591714484063</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591714484063</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implementirano uzimanje mjesta rođenja iz resultseta vlasnika. Na isti nacin ce biti implementirano uzimanje mjesta prebivalista, samo ce se uzimati broj iz druge kolone (osme)">
+      <created>1591717927474</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591717927474</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Završena metoda za uzimanje jednog vlasnika iz RS-a. To će olakšati svaki naredni put kada budem iz upita uzimao vlasnika. Korišteni pomoćni upiti za uzimanje mjesta,&#10;jer nisam mogao u jednom koraku uzeti iz resultseta cijelu klasu sacinjenu od int-a i string-ova.">
+      <created>1591718418641</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591718418641</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Iskorištena metoda za izvlacenje vlasnika da se napise brzo metoda getOwners.">
+      <created>1591718540036</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591718540036</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Rad na metodi za uzimanje jednog vozila iz RS. Prvo uzimam slozenije tipove kao sto su manufacturer i owner.">
+      <created>1591720155172</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591720155172</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Zavrsena metoda za vracanje vozila, dosta slicna nacinu vracanja vlasnika. Sav princip rada je objasnjen u komentarima pored metoda.">
+      <created>1591720729221</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591720729221</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Zavrsena metoda za vracanje mjesta.">
+      <created>1591725793034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591725793034</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Dodan upit za vraćanje svih manufacturer-a sortiranih abecedno po nazivu.">
+      <created>1591725872952</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591725872952</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Uzimanje id-a i string-a iz resultSeta koji sadrzi podatke iz tabele manufacturer.">
+      <created>1591725968627</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591725968627</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Zavrsena metoda za vracanje manufacturera.">
+      <created>1591726208585</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591726208585</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Nisam mogao dugo shvatiti zasto mi je za livingPlace ispisivalo Meho i zasto je padao test getOwners ( livinPlace je bio &quot;Meho&quot; ) ali je problem bio banalan, uzimao sam resultset koji je proslijeđen kao parametar to jest resultset vozaca, ciji je druga kolona zapravo name vozaca a ne livingPlace kao sto je to slucaj u resultsetu mjestoPB.">
+      <created>1591736108566</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591736108566</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Napravljen query koji ce mi vratiti naredni najveci ID, taj ID cu koristiti za ubacivanje novog ownera jer upravo novi owner mora imati slijedeći najveći ID">
+      <created>1591869385403</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591869385403</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Zavrsena metoda za dodavanje ownera.">
+      <created>1591869577760</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591869577760</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Ispravljeno, pogresan upit koristen greskom">
+      <created>1591875753707</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591875753707</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Napravljena pomocna metoda za dodavanje mjesta ukoliko ne postoje u bazi. To je urađeno jer u nekim testovima se napravi osoba sa mjestima koja ne postoje u db fajlu">
+      <created>1592045183110</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592045183110</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Napisan upit za promjenu vlasnika">
+      <created>1592045283613</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1592045283613</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Dodan upit koji nalazi sva vozila vlasnika jer mozda on nema vozilo">
+      <created>1592045665793</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1592045665793</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Pokrece se projekat">
+      <created>1592048813857</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1592048813857</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Promijenjena vehicles.db baza ( stavljena profesorova )" />
+    <MESSAGE value="Napravljena klasa place." />
+    <MESSAGE value="Napravljena klasa manufacturer." />
+    <MESSAGE value="Dodani vehicle i owner." />
+    <MESSAGE value="Dodan JavaFX , modules te sve potrebne metode u interfejsu." />
+    <MESSAGE value="ALT+Enter urađeni, da se implementiraju metode navedene u interfejsu." />
+    <MESSAGE value="Dodana konekcija i konektovao se na bazu iz konstruktora bez parametara." />
+    <MESSAGE value="Prebacena baza u glavni dio projekta." />
+    <MESSAGE value="Implementirano uzimanje mjesta rođenja iz resultseta vlasnika. Na isti nacin ce biti implementirano uzimanje mjesta prebivalista, samo ce se uzimati broj iz druge kolone (osme)" />
+    <MESSAGE value="Završena metoda za uzimanje jednog vlasnika iz RS-a. To će olakšati svaki naredni put kada budem iz upita uzimao vlasnika. Korišteni pomoćni upiti za uzimanje mjesta,&#10;jer nisam mogao u jednom koraku uzeti iz resultseta cijelu klasu sacinjenu od int-a i string-ova." />
+    <MESSAGE value="Iskorištena metoda za izvlacenje vlasnika da se napise brzo metoda getOwners." />
+    <MESSAGE value="Rad na metodi za uzimanje jednog vozila iz RS. Prvo uzimam slozenije tipove kao sto su manufacturer i owner." />
+    <MESSAGE value="Zavrsena metoda za vracanje vozila, dosta slicna nacinu vracanja vlasnika. Sav princip rada je objasnjen u komentarima pored metoda." />
+    <MESSAGE value="Zavrsena metoda za vracanje mjesta." />
+    <MESSAGE value="Dodan upit za vraćanje svih manufacturer-a sortiranih abecedno po nazivu." />
+    <MESSAGE value="Uzimanje id-a i string-a iz resultSeta koji sadrzi podatke iz tabele manufacturer." />
+    <MESSAGE value="Zavrsena metoda za vracanje manufacturera." />
+    <MESSAGE value="Nisam mogao dugo shvatiti zasto mi je za livingPlace ispisivalo Meho i zasto je padao test getOwners ( livinPlace je bio &quot;Meho&quot; ) ali je problem bio banalan, uzimao sam resultset koji je proslijeđen kao parametar to jest resultset vozaca, ciji je druga kolona zapravo name vozaca a ne livingPlace kao sto je to slucaj u resultsetu mjestoPB." />
+    <MESSAGE value="Napravljen query koji ce mi vratiti naredni najveci ID, taj ID cu koristiti za ubacivanje novog ownera jer upravo novi owner mora imati slijedeći najveći ID" />
+    <MESSAGE value="Zavrsena metoda za dodavanje ownera." />
+    <MESSAGE value="Ispravljeno, pogresan upit koristen greskom" />
+    <MESSAGE value="Napravljena pomocna metoda za dodavanje mjesta ukoliko ne postoje u bazi. To je urađeno jer u nekim testovima se napravi osoba sa mjestima koja ne postoje u db fajlu" />
+    <MESSAGE value="Napisan upit za promjenu vlasnika" />
+    <MESSAGE value="Dodan upit koji nalazi sva vozila vlasnika jer mozda on nema vozilo" />
+    <MESSAGE value="Pokrece se projekat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pokrece se projekat" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591707899161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591707899161" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591735287752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591735287752" />
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1591708164052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591708164052" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591707048481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591707048481" />
+    <state x="0" y="185" width="809" height="906" key="CommitChangelistDialog2" timestamp="1592048812882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2155" y="81" width="809" height="906" key="CommitChangelistDialog2/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590696655996" />
+    <state x="0" y="185" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592048812882" />
+    <state x="2236" y="267" key="FileChooserDialogImpl" timestamp="1590693703439">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2236" y="267" key="FileChooserDialogImpl/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590693703439" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592048932884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592048932884" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592048932883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592048932883" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592048932883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592048932883" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592048932884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592048932884" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591875757437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591875757437" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591875757436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591875757436" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591875757436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591875757436" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591875757437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591875757437" />
+    <state x="444" y="97" key="SettingsEditor" timestamp="1591707919429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2044" y="101" key="SettingsEditor/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590693656819" />
+    <state x="444" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591707919429" />
+    <state x="2156" y="259" key="Vcs.Push.Dialog.v2" timestamp="1590695017027">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2156" y="259" key="Vcs.Push.Dialog.v2/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590695017027" />
+    <state x="2365" y="435" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590693727709">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2365" y="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590693727709" />
+  </component>
+</project>
